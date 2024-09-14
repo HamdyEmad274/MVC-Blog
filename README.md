@@ -12,6 +12,6 @@ This is a simple Blog Management System built with ASP.NET Core MVC and Entity F
 
 ## Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/gdnGXs6AAqA&ab_channel=HamdyEmad/maxresdefault.jpg)](https://www.youtube.com/watch?v=gdnGXs6AAqA&ab_channel=HamdyEmad)
+[![Watch the demo](https://img.youtube.com/vi/gdnGXs6AAqA/maxresdefault.jpg)](https://www.youtube.com/watch?v=gdnGXs6AAqA)
 
 Click on the image above to watch the demo video!
